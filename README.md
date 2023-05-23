@@ -13,7 +13,7 @@ multiple chapters.
 
 More about this book
 ===============================
-[Wrox website](http://www.wrox.com/WileyCDA/WroxTitle/Professional-CUDA-C-Programming.productCd-1118739329.html)
+[Wrox website](https://www.wiley.com/en-us/Professional+CUDA+C+Programming-p-9781118739310)
 
 Versions
 ===============================
